@@ -1,7 +1,10 @@
-## Simple App List Todo
+## meal App
 
-- This is a simple application that implements create, read, and delete commands with simple JavaScript syntax.
-- There are features such as adding a target, modal popup, and click to delete.
+- An application that displays food menus categorized in a grid layout.
+- Implementation of navigation between screens using the native-stack navigator.
+- Setting dynamic navigation to the other screen.
+- Using route params to pass data between screens.
+- Configuring the header and adding icons/buttons to it.
 
 ![mealApp](https://github.com/narayoga/RN-basicApp/assets/68230425/ffb559cf-2e78-4fd4-8b8c-061f452c0ba2)
 
