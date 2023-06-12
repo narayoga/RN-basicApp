@@ -1,6 +1,16 @@
+## Preview App:
+- Implementation of various navigations such as stack navigation, drawer navigation, and bottom tab navigation.
+- Implementation of simple useContext and Redux in React Native using interactive icons, such as clicking on the favorite icon (showing a full star if it is favorited, and an outline if it is not). Please refer to the image for reference.
+
+![reactnavigation](https://github.com/narayoga/RN-basicApp/assets/68230425/79573b3a-7d42-47f2-a790-e75e33bee412)
+
+## Source :
 Basir payenda : https://www.youtube.com/watch?v=I7POH4acHV8
 
-+ git clone https://github.com/Basir-PD/react-nav-starter-template.git
+git clone https://github.com/Basir-PD/react-nav-starter-template.git
+
+## Setting navigation & icon :
+
 + go to https://reactnavigation.org/docs/getting-started install:
     - yarn add @react-navigation/native
     - yarn add react-native-screens react-native-safe-area-context
